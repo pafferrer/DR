@@ -1,0 +1,25 @@
+
+
+h1 {
+    color: rgb(230, 243, 240);
+    font-family: verdana;
+    font-size: 400%;
+    text-align: center;
+
+  }
+  h3 { font-size: 260%;}
+  p  {
+    color: rgb(5, 36, 29);
+    font-family: courier;
+    font-size: 200%;
+  }
+  p {
+      border: 1px solid powderblue;
+      padding: 30px;
+    }
+
+    body {
+        background-image: url("Math\ illustration2.jpg") ;
+        background-size: cover;
+        background-color: #76c96e;
+      }
